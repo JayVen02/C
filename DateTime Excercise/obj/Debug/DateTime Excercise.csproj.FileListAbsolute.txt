@@ -1,0 +1,8 @@
+C:\Users\Joven\source\repos\DateTime Excercise\bin\Debug\DateTime Excercise.exe.config
+C:\Users\Joven\source\repos\DateTime Excercise\bin\Debug\DateTime Excercise.exe
+C:\Users\Joven\source\repos\DateTime Excercise\bin\Debug\DateTime Excercise.pdb
+C:\Users\Joven\source\repos\DateTime Excercise\obj\Debug\DateTime Excercise.csproj.AssemblyReference.cache
+C:\Users\Joven\source\repos\DateTime Excercise\obj\Debug\DateTime Excercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joven\source\repos\DateTime Excercise\obj\Debug\DateTime Excercise.csproj.CoreCompileInputs.cache
+C:\Users\Joven\source\repos\DateTime Excercise\obj\Debug\DateTime Excercise.exe
+C:\Users\Joven\source\repos\DateTime Excercise\obj\Debug\DateTime Excercise.pdb
