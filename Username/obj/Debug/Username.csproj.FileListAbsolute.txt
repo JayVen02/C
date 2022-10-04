@@ -1,0 +1,8 @@
+C:\Users\Joven\source\repos\Username\bin\Debug\Username.exe.config
+C:\Users\Joven\source\repos\Username\bin\Debug\Username.exe
+C:\Users\Joven\source\repos\Username\bin\Debug\Username.pdb
+C:\Users\Joven\source\repos\Username\obj\Debug\Username.csproj.AssemblyReference.cache
+C:\Users\Joven\source\repos\Username\obj\Debug\Username.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joven\source\repos\Username\obj\Debug\Username.csproj.CoreCompileInputs.cache
+C:\Users\Joven\source\repos\Username\obj\Debug\Username.exe
+C:\Users\Joven\source\repos\Username\obj\Debug\Username.pdb
